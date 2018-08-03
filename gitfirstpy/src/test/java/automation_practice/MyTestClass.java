@@ -12,5 +12,6 @@ public class MyTestClass {
     {
         assertTrue( true );
         System.out.println("Fin de la prueba");
+        System.out.println("Fin de la prueba en branch dev");
     }
 }
